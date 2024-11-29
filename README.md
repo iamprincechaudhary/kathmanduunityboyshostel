@@ -55,7 +55,7 @@ Follow these steps to set up and run the project locally:
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/iamprincechaudhary/kathmanduunityboyshostel.git
-cd portfolio
+cd kathmanduunityboyshostel
 ```
 
 ### 2️⃣ **Install Dependencies**
@@ -94,6 +94,6 @@ npm run preview
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamprincechaudhary.github.io/portfolio//)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamprincechaudhary.github.io/kathmanduunityboyshostel/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-chaudhary-06b20024a/)
 
